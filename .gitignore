@@ -1,0 +1,25 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments & Configs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs & Diagnostics
+*.log
+*.sqlite3
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+*.swp
