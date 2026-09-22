@@ -82,12 +82,13 @@ Automated benchmarking comparing an unconstrained naive model (`MockGenerator` w
 
 ## 🚀 Quickstart & Verification
 
-### Prerequisites
-* Python 3.10+ (tested on Python 3.13)
-* Dependencies specified in `requirements.txt`:
-  ```bash
-  pip install -r requirements.txt
-  ```
+### Installation
+Clone the repository and install the dependencies:
+```bash
+git clone https://github.com/123hamozi/sycophancy-eval-bench.git
+cd sycophancy-eval-bench
+pip install -r requirements.txt
+```
 
 ### Running Unit & Integration Tests
 Run the comprehensive test suite verifying router thresholds, pattern recognition, boundary preservation, and model immutability:
