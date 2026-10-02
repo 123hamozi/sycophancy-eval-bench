@@ -1,7 +1,7 @@
 # Multi-Agent Emotional Support & Anti-Sycophancy Harness Protocol
 
 ## Project Identity & Research Scope
-Autonomous research engineering protocol for evaluating, routing, and distilling multi-agent emotional support architectures. Developed for the Sber AI Lab Master's research track at AI Talent Hub (ITMO).
+Autonomous research engineering protocol for evaluating, routing, and distilling multi-agent emotional support architectures.
 
 ### Core Research Objectives
 1. **Sycophancy Mitigation:** Decouple emotional validation from destructive agreement. Enforce therapeutic boundaries without toxic compliance.

@@ -1,6 +1,6 @@
-# Sycophancy Mitigation & Adaptive Routing Harness (Sber AI Lab Track)
+# Sycophancy Mitigation & Adaptive Routing Harness
 
-Autonomous research engineering harness for evaluating, routing, and distilling multi-agent emotional support architectures. Developed for the **Sber AI Lab Master's research track at AI Talent Hub (ITMO)**.
+Autonomous research engineering harness for evaluating, routing, and distilling multi-agent emotional support architectures.
 
 ---
 
